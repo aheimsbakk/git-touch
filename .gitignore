@@ -1,2 +1,3 @@
-VERSION
-scripts/
+# Environment and temporary files
+.env
+*.log
