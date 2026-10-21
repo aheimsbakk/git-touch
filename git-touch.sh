@@ -3,11 +3,11 @@
 # ==============================================================================
 # Script Name: git-touch.sh
 # Description: Updates multiple git repositories with a "README.touched" file.
-# Version:     0.2.2
+# Version:     0.3.0
 # Author:      Senior Sysadmin
 # ==============================================================================
 
-VERSION="0.2.2"
+VERSION="0.3.0"
 
 # Colors
 RED='\033[0;31m'
