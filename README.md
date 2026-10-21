@@ -15,7 +15,7 @@ Description
 Version
 -------
 
-0.7
+0.3.0
 
 Requirements
 ------------
@@ -94,7 +94,7 @@ Senior Sysadmin
 Files
 -----
 
-- `git-touch.sh` — primary script (version 0.7)
+- `git-touch.sh` — primary script (version 0.3.0)
 
 License
 -------
